@@ -1,5 +1,5 @@
 pipeline {
-agent {label 'iac'}
+agent {label 'demo'}
 
 // Ensure environment variables are set as secret text type //
 environment {
